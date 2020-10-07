@@ -1,0 +1,198 @@
+MOD:LongJump:true:38
+MOD:Fullbright:true:46
+MOD:InstantRespawn:false:0
+MOD:MurderMystery:false:0
+MOD:NoScoreBoard:false:0
+MOD:BlockAnimation:false:0
+MOD:TargetStrafe:false:0
+MOD:CameraNoClip:false:0
+MOD:ChestStealer:false:0
+MOD:FlagDetector:false:0
+MOD:NameProtect:false:0
+MOD:AutoGG&Play:false:0
+MOD:BedGodMode:false:0
+MOD:InfiniteAura:false:25
+MOD:BedBreaker:false:0
+MOD:ChatBypass:false:0
+MOD:InvManager:false:0
+MOD:FastLadder:false:0
+MOD:AutoClicker:false:0
+MOD:NoChatLimit:false:0
+MOD:NoHurtCam:false:0
+MOD:AutoArmor:false:12
+MOD:CakeEater:false:0
+MOD:SpeedMine:false:0
+MOD:FastPlace:false:52
+MOD:Fly:false:33
+MOD:ArmorHUD:false:0
+MOD:SlimeJump:false:0
+MOD:ChestESP:false:0
+MOD:Nametags:false:0
+MOD:HighJump:false:0
+MOD:TNTBlock:false:0
+MOD:AimAssist:false:0
+MOD:NoRotate:false:0
+MOD:Teleport:false:0
+MOD:Scaffold:false:34
+MOD:Spammer:false:0
+MOD:GodMode:false:0
+MOD:Disabler:false:0
+MOD:Criticals:false:0
+MOD:ESP:true:37
+MOD:AutoGap:false:0
+MOD:InvMove:false:0
+MOD:Velocity:false:0
+MOD:KillSults:false:0
+MOD:AutoPot:false:0
+MOD:TabGui2:false:0
+MOD:ItemESP:false:0
+MOD:AntiVoid:false:0
+MOD:ClickGui:false:54
+MOD:TPaura:false:0
+MOD:Dolphin:false:0
+MOD:Antibot:false:0
+MOD:NoSlow:false:0
+MOD:TabGui:false:0
+MOD:Sprint:false:0
+MOD:Chams:false:0
+MOD:Hitbox:false:0
+MOD:Aimbot:false:0
+MOD:Speed:false:35
+MOD:Phase:false:0
+MOD:NoWeb:false:0
+MOD:Jesus:false:0
+MOD:Nofall:false:49
+MOD:Sneak:false:0
+MOD:Eagle:false:0
+MOD:Xray:false:45
+MOD:Aura:false:0
+MOD:WTap:false:0
+MOD:Step:false:0
+MOD:HUD:false:0
+MOD:IRC:false:0
+SET:Hypixel Timer:Fly §7Motion:1.0
+SET:Hypixel Speed:Fly §7Motion:1.0
+SET:Timer Delay:Fly §7Motion:900.0
+SET:Vanilla speed:Fly §7Motion:2.0
+SET:Motion speed:Fly §7Motion:6.0
+SET:Mineplex speed:Fly §7Motion:1.0
+SET:Hypixel Damage:Fly §7Motion:0.0
+SET:Blink:Fly §7Motion:0.0
+SET:View Bobbing:Fly §7Motion:0.0
+SET:Hypixel Disabler:Fly §7Motion:0.0
+SET:Vanilla Kick Bypass:Fly §7Motion:0.0
+SET:HUD:Fly §7Motion:0.0
+SET:Fly Mode:Fly §7Motion:Motion
+SET:Nofall Mode:Nofall:NCP
+SET:BrightMode:FullBright §7Potion:Potion
+SET:CPS:InfiniteAura:5.0
+SET:Hive:InfiniteAura:0.0
+SET:Sneak Mode:Sneak:Kinetic
+SET:BlockAnimation Speed:BlockAnimation:4.0
+SET:X:BlockAnimation:0.0
+SET:Y:BlockAnimation:0.15
+SET:Z:BlockAnimation:0.0
+SET:Astolfo:BlockAnimation:0.0
+SET:LeetStab:BlockAnimation:0.0
+SET:Slide:BlockAnimation:0.0
+SET:Exhibi:BlockAnimation:0.0
+SET:1.7:BlockAnimation:0.0
+SET:Tap:BlockAnimation:0.0
+SET:Tap2:BlockAnimation:0.0
+SET:Stab:BlockAnimation:0.0
+SET:Sink:BlockAnimation:0.0
+SET:Vanilla:BlockAnimation:0.0
+SET:Push:BlockAnimation:0.0
+SET:Warped:BlockAnimation:0.0
+SET:Spin:BlockAnimation:0.0
+SET:None:BlockAnimation:0.0
+SET:Flux:BlockAnimation:0.0
+SET:Exist:BlockAnimation:0.0
+SET:List Mode:HUD:Text Only
+SET:Tab Mode:HUD:Rainbow
+SET:WaterMark Mode:HUD:Text
+SET:HUD Mode:HUD:Jello
+SET:Pulse Mode:HUD:Logo
+SET:Keystrokes:HUD:0.0
+SET:Custom Hotbar:HUD:0.0
+SET:Suffixes:HUD:0.0
+SET:Autoblock Mode:Aura:NCP
+SET:AuraRotate Mode:Aura:ServerSide
+SET:TargetHud Mode:Aura:Exhibition
+SET:AutoBlock far away:Aura:0.0
+SET:Sprint:Aura:0.0
+SET:Rotate On Hit:Aura:0.0
+SET:AAC Rots:Aura:0.0
+SET:Smooth Rots:Aura:0.0
+SET:Crack Size:Aura:5.0
+SET:TargetHud x:Aura:5.0
+SET:AutoBlock Range:Aura:10.0
+SET:Min APS:Aura:9.0
+SET:Max APS:Aura:12.0
+SET:Random APS:Aura:0.0
+SET:Range:Aura:4.0
+SET:Random Range:Aura:0.0
+SET:Existed:Aura:30.0
+SET:FOV:Aura:360.0
+SET:RayCast:Aura:0.0
+SET:Fail Hits:Aura:10.0
+SET:Fail Hit Detect:Aura:0.0
+SET:AutoBlock:Aura:0.0
+SET:Walls:Aura:0.0
+SET:Rotations:Aura:0.0
+SET:Invisibles:Aura:0.0
+SET:Players:Aura:0.0
+SET:Animals:Aura:0.0
+SET:Monsters:Aura:0.0
+SET:Villagers:Aura:0.0
+SET:Dead:Aura:0.0
+SET:Teams:Aura:0.0
+SET:AutoDisable:Aura:0.0
+SET:Expand:Hitbox:1.23
+SET:Design:ClickGui:JellyLike
+SET:Sound:ClickGui:0.0
+SET:GuiRed:ClickGui:255.0
+SET:GuiGreen:ClickGui:26.0
+SET:GuiBlue:ClickGui:42.0
+SET:Steal Delay Min:ChestStealer:150.0
+SET:Steal Delay Max:ChestStealer:190.0
+SET:Auto Close:ChestStealer:0.0
+SET:Iqnore bad:ChestStealer:0.0
+SET:MinCPS:AutoClicker:8.0
+SET:MaxCPS:AutoClicker:12.0
+SET:Step Height:Step:5.0
+SET:Step Mode:Step:Vanilla
+SET:AntiBot Mode:Antibot:Mineplex
+SET:Armor Delay:AutoArmor:0.0
+SET:Disable Mode:Disabler:Watchdog
+SET:Throw Delay:AutoPot:1000.0
+SET:Hypixel:NoSlow:0.0
+SET:Delay:InvManager:200.0
+SET:SwordSlot:InvManager:1.0
+SET:FishingRod:InvManager:1.0
+SET:Clean:InvManager:0.0
+SET:CleanBadItems:InvManager:0.0
+SET:Jump Mode:HighJump:Vanilla
+SET:Speed Mode:Speed:Hypixel
+SET:Jump123 Mode:LongJump §7Mineplex:Mineplex
+SET:Ground Speed:LongJump §7Mineplex:0.0
+SET:Criticals Mode:Criticals:Packet
+SET:Horizontal:Velocity:100.0
+SET:Vertical:Velocity:100.0
+SET:Velocity Mode:Velocity:NoPacket
+SET:Inv Mode:InvMove:AACAditionPro
+SET:KeepRots:Scaffold:true
+SET:Safewalk:Scaffold:true
+SET:Downwards:Scaffold:true
+SET:Place Delay:Scaffold:0.0
+SET:Tower:Scaffold:true
+SET:TowerMove:Scaffold:true
+SET:Swing:Scaffold:true
+SET:KeepY:Scaffold:true
+SET:Eagle:Scaffold:true
+SET:TowerMode:Scaffold:Hypixel
+SET:Scaffold Mode:Scaffold:Hypixel
+SET:KeepSprint:Scaffold:0.0
+SET:RayCast:Scaffold:0.0
+SET:Web Mode:NoWeb:ACR
+SET:Kill Mode:KillSults:Blatant
