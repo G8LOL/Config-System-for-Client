@@ -1,0 +1,10 @@
+  @Override
+	public void onCommand(String command, String[] args) throws Exception {
+
+			if(args[0].equalsIgnoreCase("save")) {
+				Artemis.addChatMessage("Right now save config doesnt work!");
+
+			} if(args[0].equalsIgnoreCase("load")) {
+				Configer.instance.Config(args[1]);
+          }
+ }
